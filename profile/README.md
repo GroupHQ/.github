@@ -20,4 +20,5 @@ The GroupHQ Demo comprises the following repositories:
 6. [Continuous Testing Test Suite](https://github.com/GroupHQ/grouphq-continuous-testing-test-suite): Test suite hosting
 user-acceptance tests for the GroupHQ Demo
 7. [Continuous Testing Proxy Server](https://github.com/GroupHQ/grouphq-continuous-testing-proxy-server): Proxy server
-for integrating the GitHub API with [BuildWise](https://agileway.com.au/buildwise), a continuous testing server.
+for integrating the GitHub API with [BuildWise](https://agileway.com.au/buildwise), a continuous testing server. 
+8. [Continuous Testing Server](https://5160-70-107-109-25.ngrok-free.app/).
