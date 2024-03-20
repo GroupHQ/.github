@@ -1,4 +1,4 @@
-# GroupHQ
+# GroupHQ (https://grouphq.org)
 [GroupHQ](https://grouphq.org/) is a demo application created as a training exercise for building and deploying 
 [reactive](https://en.wikipedia.org/wiki/Reactive_Streams) [cloud-native applications](https://aws.amazon.com/what-is/cloud-native/) 
 through the use of [Spring Boot](https://www.ibm.com/topics/java-spring-boot), [Project Reactor](https://projectreactor.io/), 
